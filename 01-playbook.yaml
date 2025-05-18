@@ -1,7 +1,7 @@
 - name: PING
-  hosts: 
+  hosts: WEB
   tasks:
   - name:
     ansible.builtin.plugin
-    
+
     
